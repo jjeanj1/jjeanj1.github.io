@@ -4,7 +4,7 @@ author: jjeanj1
 date: 2023-02-21 20:55:00 +0800
 categories: [Blogging]
 tags: [getting started]
-pin: true
+pin: false
 ---
 
 Welcome! If you are on this page chances are you made a search for a key term that I'm also interested in and have added to my brain dump. This blog is intended to compile a collection of subjects and thoughts that I find interesting enough to share with the rest of the world. 
