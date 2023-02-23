@@ -1,9 +1,9 @@
 ---
 title: Hosting your blog on github pages
-author: cotes
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+author: jjeanj1
+date: 2023-02-22 14:10:00 +0800
+categories: [Blogging]
+tags: [writing, github pages]
 render_with_liquid: false
 ---
 
