@@ -1,8 +1,8 @@
 ---
-title: Getting Started
-author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
+title: Welcome to bitgrep
+author: jjeanj1
+date: 2023-02-21 20:55:00 +0800
+categories: [Blogging]
 tags: [getting started]
 pin: true
 ---
