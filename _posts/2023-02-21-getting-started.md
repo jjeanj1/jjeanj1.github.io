@@ -16,6 +16,9 @@ I'm currently working in the Cyber Security space as a Sr. Architect focusing on
 > Disclaimer: The opinions expressed are solely my own and do not express the views or opinions of my employer
 {: .prompt-danger }
 
+> The content of this post applies only to [_Universal Analytics property_](https://support.google.com/analytics/answer/10220206) (UA), not [_Google Analytics 4_](https://support.google.com/analytics/answer/10089681) (GA 4). In addition, since [UA is about to be deprecated on Jul 1, 2023](https://support.google.com/analytics/answer/11583528), the Page Views feature of [_Chirpy_][chirpy-homepage] will also be deprecated at that time.
+{: .prompt-danger }
+
 ## Installation
 
 ### Creating a New Site
